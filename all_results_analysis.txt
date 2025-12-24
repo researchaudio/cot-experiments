@@ -1,0 +1,12 @@
+COT Faithfulness Analysis Summary
+Generated: 2025-12-24T00:54:16.234143
+Source: all_results.json
+Total trials: 5788
+Models: claude-opus-4, claude-sonnet-4.5, deepseek-r1, gemini-3-flash-preview, glm-4.7, gpt-5.2, grok-4, kimi-k2-thinking, nemotron-3-nano-30b-a3b:free, qwen3-235b-a22b-thinking-2507, sonar-reasoning-pro
+
+Faithfulness by System Type:
+  baseline: 21.1%
+  monitoring: 21.9%
+  explicit_ack: 100.0%
+
+Hidden knowledge rate: 1.1%
